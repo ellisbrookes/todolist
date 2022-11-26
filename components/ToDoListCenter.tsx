@@ -1,7 +1,4 @@
-import {
-  Todolistcontainer,
-  Todolistcontent,
-} from "../components/ToDoListCenter.style";
+import { Todolistcontainer, Todolistcontent } from "./ToDoListCenter.style";
 export const ToDoListCenter = () => {
   return (
     <Todolistcontainer>
