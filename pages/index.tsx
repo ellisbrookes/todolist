@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ProjectX Dashboard - Notification Center</title>
-        <meta name="description" content="Dashboard for projectX" />
+        <title>Basic TO-DO List</title>
+        <meta name="description" content="Basic to do list" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
